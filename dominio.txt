@@ -1,0 +1,6 @@
+google.com
+youtube.com
+instagram.com
+facebook.com
+amazon.com
+sourceforge.net
