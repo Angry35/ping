@@ -12,5 +12,5 @@ node app.js
 ### Nota: De ser necesario configuras el navegador en caso de que lo requiera (esto porque me dio error en un principio pero lo raro es que nisiquiera usa el navegador de firefox, usa el de vs code XD)
 
 ```
-***sudo chmod +x /usr/bin/firefox***
+sudo chmod +x /usr/bin/firefox
 ```
