@@ -30,7 +30,7 @@ def convertir_con_barra(ruta_entrada, ruta_salida):
         '-c:a', 'aac',
         '-b:a', '128k',
         ruta_salida,
-        '-y'  # sobrescribe sin preguntar
+        '-y'  
     ]
 
     proceso = subprocess.Popen(comando, stderr=subprocess.PIPE, text=True)
